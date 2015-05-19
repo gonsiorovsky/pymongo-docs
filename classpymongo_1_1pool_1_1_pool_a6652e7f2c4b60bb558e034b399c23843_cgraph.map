@@ -1,0 +1,7 @@
+<map id="pymongo.pool.Pool.return_socket" name="pymongo.pool.Pool.return_socket">
+<area shape="rect" id="node2" href="$classpymongo_1_1pool_1_1_pool.html#ac8071095a17b080a0ddb765bfde72fbf" title="pymongo.pool.Pool.reset" alt="" coords="232,5,399,32"/>
+<area shape="rect" id="node3" href="$namespacepymongo_1_1network.html#a8361279b0d5dfd2260379ecee4396e28" title="pymongo.network.socket\l_closed" alt="" coords="232,57,399,98"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1pool_1_1_pool.html#ac06f78ee1f45de52183077e5f030aad0" title="pymongo.pool.Pool.connect" alt="" coords="224,123,407,149"/>
+<area shape="rect" id="node5" href="$namespacepymongo_1_1network.html#ace0c159f2740d66c1b47efcb6e1c72ed" title="pymongo.network.command" alt="" coords="455,123,640,149"/>
+<area shape="rect" id="node6" href="$namespacepymongo_1_1network.html#ac47f469382e7f04e9afaa0acf1e5b732" title="pymongo.network.receive\l_message" alt="" coords="688,115,856,157"/>
+</map>

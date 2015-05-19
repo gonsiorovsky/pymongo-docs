@@ -1,0 +1,6 @@
+<map id="pymongo.database.Database.drop_collection" name="pymongo.database.Database.drop_collection">
+<area shape="rect" id="node2" href="$classpymongo_1_1database_1_1_database.html#aad65a7eb2be557435c76fdedb277d180" title="pymongo.database.Database.command" alt="" coords="560,46,812,73"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1database_1_1_database.html#a808b00722a5244218a078f521709825d" title="pymongo.database.Database.validate\l_collection" alt="" coords="273,68,512,109"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1collection_1_1_collection.html#ad1d0fc1723fd58b098ebdaba5dfcab29" title="pymongo.collection.Collection.\l_command" alt="" coords="860,5,1059,47"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1database_1_1_database.html#a65a133547fd9b3fd4f2ebf64b5082def" title="pymongo.database.Database.\l_command" alt="" coords="862,71,1057,112"/>
+</map>

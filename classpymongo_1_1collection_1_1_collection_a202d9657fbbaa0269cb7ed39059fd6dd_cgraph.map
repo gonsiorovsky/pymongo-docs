@@ -1,0 +1,7 @@
+<map id="pymongo.collection.Collection.create_indexes" name="pymongo.collection.Collection.create_indexes">
+<area shape="rect" id="node2" href="$classpymongo_1_1collection_1_1_collection.html#a5c9b1707440e9e73d42902fd3cac21a4" title="pymongo.collection.Collection.name" alt="" coords="289,5,519,32"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1collection_1_1_collection.html#ac936ed408326bb0af90d99d61cc9433b" title="pymongo.collection.Collection.\l_socket_for_writes" alt="" coords="305,57,503,98"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1collection_1_1_collection.html#ad1d0fc1723fd58b098ebdaba5dfcab29" title="pymongo.collection.Collection.\l_command" alt="" coords="305,122,503,163"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1client__options_1_1_client_options.html#a2062af10a122cfe5706643b560ea24a5" title="pymongo.client_options.Client\lOptions.write_concern" alt="" coords="306,187,502,229"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1common_1_1_base_object.html#ad76aac38fe0b76a0455cf96084f00a8e" title="pymongo.common.BaseObject.write\l_concern" alt="" coords="288,253,520,294"/>
+</map>

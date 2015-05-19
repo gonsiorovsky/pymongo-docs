@@ -1,0 +1,9 @@
+<map id="pymongo.collection.Collection.inline_map_reduce" name="pymongo.collection.Collection.inline_map_reduce">
+<area shape="rect" id="node2" href="$classpymongo_1_1collection_1_1_collection.html#a69b58eacdbf87d69fea4e0e70504b61d" title="pymongo.collection.Collection.\l_socket_for_reads" alt="" coords="293,5,491,47"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1collection_1_1_collection.html#ad1d0fc1723fd58b098ebdaba5dfcab29" title="pymongo.collection.Collection.\l_command" alt="" coords="293,71,491,112"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1collection_1_1_collection.html#ac936ed408326bb0af90d99d61cc9433b" title="pymongo.collection.Collection.\l_socket_for_writes" alt="" coords="293,136,491,177"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1collection_1_1_collection.html#aac3f1150d9d47503fbc498fee25dbbab" title="pymongo.collection.Collection.find\l_one_and_delete" alt="" coords="283,201,501,243"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1collection_1_1_collection.html#a1c62559fd9e0ae728d922543b89bbebe" title="pymongo.collection.Collection.\l__find_and_modify" alt="" coords="1083,223,1281,264"/>
+<area shape="rect" id="node7" href="$classpymongo_1_1collection_1_1_collection.html#a2a41f169589340c831a355bdfcc1fa38" title="pymongo.collection.Collection.find\l_one_and_replace" alt="" coords="549,231,768,272"/>
+<area shape="rect" id="node8" href="$classpymongo_1_1collection_1_1_collection.html#ad14fc153a6de340884d59384ca5459f0" title="pymongo.collection.Collection.find\l_one_and_update" alt="" coords="816,281,1035,323"/>
+</map>

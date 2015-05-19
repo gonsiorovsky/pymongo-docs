@@ -1,0 +1,11 @@
+<map id="pymongo.common.validate_is_mapping" name="pymongo.common.validate_is_mapping">
+<area shape="rect" id="node2" href="$classpymongo_1_1bulk_1_1_bulk_operation_builder.html#afc51944300109a05fc5635923cb02c04" title="pymongo.bulk.BulkOperation\lBuilder.find" alt="" coords="229,5,419,47"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1bulk_1_1_bulk_operation_builder.html#a08fd2d7a122ef7fb23a0249f94a0a23b" title="pymongo.bulk.BulkOperation\lBuilder.execute" alt="" coords="229,71,419,112"/>
+<area shape="rect" id="node5" href="$namespacepymongo_1_1common.html#aff05862aaa9ec717a064655db395a567" title="pymongo.common.validate\l_ok_for_replace" alt="" coords="236,136,412,177"/>
+<area shape="rect" id="node7" href="$namespacepymongo_1_1common.html#a09d2f7dba1e1ef16a27f5a6bb52f8ef6" title="pymongo.common.validate\l_ok_for_update" alt="" coords="236,201,412,243"/>
+<area shape="rect" id="node9" href="$classpymongo_1_1cursor_1_1_cursor.html#a40641bb398225676bc1da17acc075d36" title="pymongo.cursor.Cursor.\l__init__" alt="" coords="243,267,405,308"/>
+<area shape="rect" id="node10" href="$classpymongo_1_1operations_1_1___write_op.html#ac6596d7923cd4353e6cbf2f70a773aa9" title="pymongo.operations.\l_WriteOp.__init__" alt="" coords="253,332,395,373"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1collection_1_1_collection.html#a8f5c1722a8365e7f6545fffa7a01bae4" title="pymongo.collection.Collection.find_one" alt="" coords="467,13,713,39"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1bulk_1_1___bulk.html#a68a4aeec95daef7017c7b60e0136f2f4" title="pymongo.bulk._Bulk.add\l_replace" alt="" coords="507,136,673,177"/>
+<area shape="rect" id="node8" href="$classpymongo_1_1bulk_1_1___bulk.html#a482b514f55a200423a14effca1bcbf52" title="pymongo.bulk._Bulk.add\l_update" alt="" coords="507,201,673,243"/>
+</map>

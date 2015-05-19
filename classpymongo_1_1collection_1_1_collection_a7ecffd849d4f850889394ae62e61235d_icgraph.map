@@ -1,0 +1,6 @@
+<map id="pymongo.collection.Collection.__getitem__" name="pymongo.collection.Collection.__getitem__">
+<area shape="rect" id="node2" href="$classpymongo_1_1collection_1_1_collection.html#ae95708c478635c118c56275875ec560f" title="pymongo.collection.Collection.\l__getattr__" alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1mongo__client_1_1_mongo_client.html#a0c5975e985818ba3612bad2e3c4859cf" title="pymongo.mongo_client.Mongo\lClient.__getattr__" alt="" coords="747,100,945,141"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1database_1_1_database.html#a1d6cab474fe3a561c59d9d10ce5e468b" title="pymongo.database.Database.\l__getattr__" alt="" coords="254,71,449,112"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1database_1_1_system_j_s.html#aebb0f3c0faa70935e88937f27e5c520d" title="pymongo.database.SystemJS.\l__getitem__" alt="" coords="499,71,699,112"/>
+</map>

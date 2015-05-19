@@ -1,0 +1,5 @@
+<map id="pymongo.errors.WriteError" name="pymongo.errors.WriteError">
+<area shape="rect" id="node5" href="$classpymongo_1_1errors_1_1_duplicate_key_error.html" title="pymongo.errors.Duplicate\lKeyError" alt="" coords="19,319,190,360"/>
+<area shape="rect" id="node2" href="$classpymongo_1_1errors_1_1_operation_failure.html" title="pymongo.errors.Operation\lFailure" alt="" coords="19,155,191,196"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1errors_1_1_py_mongo_error.html" title="pymongo.errors.PyMongoError" alt="" coords="5,80,204,107"/>
+</map>

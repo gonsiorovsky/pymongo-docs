@@ -1,0 +1,7 @@
+<map id="pymongo.settings.TopologySettings.get_topology_type" name="pymongo.settings.TopologySettings.get_topology_type">
+<area shape="rect" id="node2" href="$classpymongo_1_1settings_1_1_topology_settings.html#af47176c6fa8859e6c93c601e9cd42235" title="pymongo.settings.Topology\lSettings.direct" alt="" coords="257,5,438,47"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1client__options_1_1_client_options.html#aa169aa6ecef5d037e7a497b40a70b12f" title="pymongo.client_options.Client\lOptions.replica_set_name" alt="" coords="249,71,445,112"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1ismaster_1_1_is_master.html#a064b72f4c62370f74d275d1e382f2595" title="pymongo.ismaster.IsMaster.replica\l_set_name" alt="" coords="235,136,460,177"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1server__description_1_1_server_description.html#a331e6acdc34f5846b0242f2164ab7b38" title="pymongo.server_description.\lServerDescription.replica\l_set_name" alt="" coords="254,201,441,257"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1settings_1_1_topology_settings.html#a85a4eaa104841a621acdd9c64f7b30ba" title="pymongo.settings.Topology\lSettings.replica_set_name" alt="" coords="257,280,438,321"/>
+</map>

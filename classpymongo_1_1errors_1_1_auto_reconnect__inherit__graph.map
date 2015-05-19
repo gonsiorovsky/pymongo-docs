@@ -1,0 +1,7 @@
+<map id="pymongo.errors.AutoReconnect" name="pymongo.errors.AutoReconnect">
+<area shape="rect" id="node5" href="$classpymongo_1_1errors_1_1_network_timeout.html" title="pymongo.errors.NetworkTimeout" alt="" coords="863,5,1072,32"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1errors_1_1_not_master_error.html" title="pymongo.errors.NotMaster\lError" alt="" coords="879,57,1055,98"/>
+<area shape="rect" id="node7" href="$classpymongo_1_1errors_1_1_server_selection_timeout_error.html" title="pymongo.errors.ServerSelection\lTimeoutError" alt="" coords="864,122,1071,163"/>
+<area shape="rect" id="node2" href="$classpymongo_1_1errors_1_1_connection_failure.html" title="pymongo.errors.Connection\lFailure" alt="" coords="380,57,561,98"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1errors_1_1_py_mongo_error.html" title="pymongo.errors.PyMongoError" alt="" coords="133,64,332,91"/>
+</map>

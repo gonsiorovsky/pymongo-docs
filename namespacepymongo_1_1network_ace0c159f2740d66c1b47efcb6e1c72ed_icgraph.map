@@ -1,0 +1,8 @@
+<map id="pymongo.network.command" name="pymongo.network.command">
+<area shape="rect" id="node2" href="$classpymongo_1_1mongo__client_1_1_mongo_client.html#a96c21af87b70c52c403e1d6055bf7e5d" title="pymongo.mongo_client.Mongo\lClient.drop_database" alt="" coords="239,5,437,47"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1pool_1_1_pool.html#ac06f78ee1f45de52183077e5f030aad0" title="pymongo.pool.Pool.connect" alt="" coords="247,71,429,98"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1pool_1_1_pool.html#aad1e49d0eb2799e1d0bd043a10e78d8d" title="pymongo.pool.Pool.get\l_socket" alt="" coords="704,64,859,105"/>
+<area shape="rect" id="node7" href="$classpymongo_1_1pool_1_1_pool.html#a6652e7f2c4b60bb558e034b399c23843" title="pymongo.pool.Pool.return\l_socket" alt="" coords="485,93,656,135"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1server_1_1_server.html#a48e713acc6ca1db309b73080f96b4088" title="pymongo.server.Server.send\l_message" alt="" coords="1140,64,1325,105"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1server_1_1_server.html#abdec57133b38477742b28ebaa9d91d3c" title="pymongo.server.Server.send\l_message_with_response" alt="" coords="907,93,1092,135"/>
+</map>

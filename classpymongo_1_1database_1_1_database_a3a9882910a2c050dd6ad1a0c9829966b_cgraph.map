@@ -1,0 +1,7 @@
+<map id="pymongo.database.Database.add_user" name="pymongo.database.Database.add_user">
+<area shape="rect" id="node2" href="$classpymongo_1_1database_1_1_database.html#aad65a7eb2be557435c76fdedb277d180" title="pymongo.database.Database.command" alt="" coords="301,45,553,71"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1database_1_1_database.html#a194ce7d8910fb53f297aadea3ad08942" title="pymongo.database.Database.\l_create_or_update_user" alt="" coords="330,96,525,137"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1database_1_1_database.html#af9aaee04ec9cf3efa9159cae7bbd9fed" title="pymongo.database.Database.\l_legacy_add_user" alt="" coords="330,161,525,203"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1collection_1_1_collection.html#ad1d0fc1723fd58b098ebdaba5dfcab29" title="pymongo.collection.Collection.\l_command" alt="" coords="601,5,800,47"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1database_1_1_database.html#a65a133547fd9b3fd4f2ebf64b5082def" title="pymongo.database.Database.\l_command" alt="" coords="603,71,798,112"/>
+</map>

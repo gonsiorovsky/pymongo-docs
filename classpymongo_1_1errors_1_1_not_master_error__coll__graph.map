@@ -1,0 +1,5 @@
+<map id="pymongo.errors.NotMasterError" name="pymongo.errors.NotMasterError">
+<area shape="rect" id="node2" href="$classpymongo_1_1errors_1_1_auto_reconnect.html" title="pymongo.errors.AutoReconnect" alt="" coords="5,244,211,271"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1errors_1_1_connection_failure.html" title="pymongo.errors.Connection\lFailure" alt="" coords="17,155,199,196"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1errors_1_1_py_mongo_error.html" title="pymongo.errors.PyMongoError" alt="" coords="9,80,207,107"/>
+</map>

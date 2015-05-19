@@ -1,0 +1,6 @@
+<map id="pymongo.son_manipulator.SONManipulator" name="pymongo.son_manipulator.SONManipulator">
+<area shape="rect" id="node3" href="$classpymongo_1_1son__manipulator_1_1_auto_reference.html" title="pymongo.son_manipulator.\lAutoReference" alt="" coords="337,5,516,47"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1son__manipulator_1_1_namespace_injector.html" title="pymongo.son_manipulator.\lNamespaceInjector" alt="" coords="337,71,516,112"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1son__manipulator_1_1_object_id_injector.html" title="pymongo.son_manipulator.\lObjectIdInjector" alt="" coords="337,136,516,177"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1son__manipulator_1_1_object_id_shuffler.html" title="pymongo.son_manipulator.\lObjectIdShuffler" alt="" coords="337,201,516,243"/>
+</map>

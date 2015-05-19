@@ -1,0 +1,10 @@
+<map id="pymongo.common.BaseObject.write_concern" name="pymongo.common.BaseObject.write_concern">
+<area shape="rect" id="node2" href="$classpymongo_1_1collection_1_1_collection.html#a10ea9e779e51413b50b394bc58d585a5" title="pymongo.collection.Collection.with\l_options" alt="" coords="309,27,532,69"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1collection_1_1_collection.html#afd0e14ecdce8102bfbdcdc80ff833c37" title="pymongo.collection.Collection.bulk\l_write" alt="" coords="309,93,532,134"/>
+<area shape="rect" id="node7" href="$classpymongo_1_1collection_1_1_collection.html#acdce3fe3a10b520e7180295c4125b579" title="pymongo.collection.Collection.insert_many" alt="" coords="285,159,556,185"/>
+<area shape="rect" id="node8" href="$classpymongo_1_1collection_1_1_collection.html#a946d3a977ea1b7d969344e732468aaeb" title="pymongo.collection.Collection.drop" alt="" coords="309,209,533,236"/>
+<area shape="rect" id="node9" href="$classpymongo_1_1collection_1_1_collection.html#a202d9657fbbaa0269cb7ed39059fd6dd" title="pymongo.collection.Collection.create\l_indexes" alt="" coords="303,261,538,302"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1collection_1_1_collection.html#ad2ab7839cf120e21169c25c24a3d6e71" title="pymongo.collection.Collection.database" alt="" coords="604,5,856,32"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1collection_1_1_collection.html#a6a3e658f9c68545fc9bd3b8963800fbf" title="pymongo.collection.Collection.list\l_indexes" alt="" coords="622,57,838,98"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1collection_1_1_collection.html#a7e4f7d893349549d77571e173a059d30" title="pymongo.collection.Collection.index\l_information" alt="" coords="904,57,1135,98"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="pymongo.bulk._Bulk.execute" name="pymongo.bulk._Bulk.execute">
+<area shape="rect" id="node2" href="$classpymongo_1_1bulk_1_1___bulk.html#a08d446334a1c6dbd3a357581be3353aa" title="pymongo.bulk._Bulk.gen\l_ordered" alt="" coords="257,5,422,47"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1bulk_1_1___bulk.html#a5661c17e4ebc661ae3281aefe9acb5d6" title="pymongo.bulk._Bulk.gen\l_unordered" alt="" coords="257,71,422,112"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1bulk_1_1___bulk.html#a36247d8942586f0599109351683da5b5" title="pymongo.bulk._Bulk.execute\l_no_results" alt="" coords="244,136,435,177"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1bulk_1_1___bulk.html#ad1bde5799f0499241a5abf2bfb4093bd" title="pymongo.bulk._Bulk.execute\l_command" alt="" coords="244,201,435,243"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1bulk_1_1___bulk.html#a01caa9f69b0e61171fef0bb1cbc31407" title="pymongo.bulk._Bulk.execute\l_legacy" alt="" coords="244,267,435,308"/>
+</map>

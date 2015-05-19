@@ -1,0 +1,7 @@
+<map id="pymongo.results._WriteResult" name="pymongo.results._WriteResult">
+<area shape="rect" id="node3" href="$classpymongo_1_1results_1_1_bulk_write_result.html" title="pymongo.results.BulkWrite\lResult" alt="" coords="367,5,545,47"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1results_1_1_delete_result.html" title="pymongo.results.DeleteResult" alt="" coords="358,71,554,98"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1results_1_1_insert_many_result.html" title="pymongo.results.InsertMany\lResult" alt="" coords="363,123,549,164"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1results_1_1_insert_one_result.html" title="pymongo.results.InsertOne\lResult" alt="" coords="367,188,545,229"/>
+<area shape="rect" id="node7" href="$classpymongo_1_1results_1_1_update_result.html" title="pymongo.results.UpdateResult" alt="" coords="356,254,556,281"/>
+</map>

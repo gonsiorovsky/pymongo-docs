@@ -1,0 +1,8 @@
+<map id="pymongo.operations._WriteOp" name="pymongo.operations._WriteOp">
+<area shape="rect" id="node3" href="$classpymongo_1_1operations_1_1_delete_many.html" title="pymongo.operations.DeleteMany" alt="" coords="303,5,515,32"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1operations_1_1_delete_one.html" title="pymongo.operations.DeleteOne" alt="" coords="307,56,511,83"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1operations_1_1_insert_one.html" title="pymongo.operations.InsertOne" alt="" coords="310,107,509,133"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1operations_1_1_replace_one.html" title="pymongo.operations.ReplaceOne" alt="" coords="302,157,517,184"/>
+<area shape="rect" id="node7" href="$classpymongo_1_1operations_1_1_update_many.html" title="pymongo.operations.UpdateMany" alt="" coords="301,208,517,235"/>
+<area shape="rect" id="node8" href="$classpymongo_1_1operations_1_1_update_one.html" title="pymongo.operations.UpdateOne" alt="" coords="305,259,513,285"/>
+</map>

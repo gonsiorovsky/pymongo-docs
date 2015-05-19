@@ -1,0 +1,6 @@
+<map id="pymongo.cursor._SocketManager.close" name="pymongo.cursor._SocketManager.close">
+<area shape="rect" id="node2" href="$classpymongo_1_1cursor_1_1___socket_manager.html#ae60f2eb17a4127ee8789723f506f0119" title="pymongo.cursor._SocketManager.\l__del__" alt="" coords="305,5,527,47"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1mongo__client_1_1_mongo_client.html#a854ea4e1d76788bf8edac6afa0340b67" title="pymongo.mongo_client.Mongo\lClient.__exit__" alt="" coords="317,71,515,112"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1monitor_1_1_monitor.html#afeb3eaa0d80b0954d0b05773c3766844" title="pymongo.monitor.Monitor.request\l_check" alt="" coords="308,136,524,177"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1pool_1_1_socket_info.html#aac6069e578d09e23f534c089f8599651" title="pymongo.pool.SocketInfo.close" alt="" coords="315,226,517,253"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="pymongo.database.SystemJS.__getitem__" name="pymongo.database.SystemJS.__getitem__">
+<area shape="rect" id="node2" href="$classpymongo_1_1collection_1_1_collection.html#ae95708c478635c118c56275875ec560f" title="pymongo.collection.Collection.\l__getattr__" alt="" coords="254,39,453,80"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1database_1_1_database.html#a1d6cab474fe3a561c59d9d10ce5e468b" title="pymongo.database.Database.\l__getattr__" alt="" coords="256,104,451,145"/>
+<area shape="rect" id="node21" href="$classpymongo_1_1database_1_1_system_j_s.html#ac70c187213a01d18d292452bb4e13364" title="pymongo.database.SystemJS.\l__getattr__" alt="" coords="253,169,453,211"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1collection_1_1_collection.html#a7ecffd849d4f850889394ae62e61235d" title="pymongo.collection.Collection.\l__getitem__" alt="" coords="501,39,700,80"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1cursor_1_1_cursor.html#a0de13cf1fa04e16455c13f0eaa058043" title="pymongo.cursor.Cursor.\l__getitem__" alt="" coords="520,104,681,145"/>
+<area shape="rect" id="node11" href="$classpymongo_1_1database_1_1_database.html#a52aed4bbd776d4fe418e0d41d499d84f" title="pymongo.database.Database.\l__getitem__" alt="" coords="503,177,698,219"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1cursor_1_1_cursor.html#a41382e012488b5ab8edf97362c40c4d0" title="pymongo.cursor.Cursor.\l__check_okay_to_chain" alt="" coords="773,45,936,87"/>
+<area shape="rect" id="node7" href="$classpymongo_1_1cursor_1_1_cursor.html#a43151090189c7d491e56e92fb553baad" title="pymongo.cursor.Cursor.clone" alt="" coords="759,111,951,138"/>
+<area shape="rect" id="node8" href="$classpymongo_1_1cursor_1_1_cursor.html#ac69a92e811fd8eb2a6fcb0ef868ea246" title="pymongo.cursor.Cursor.\l_clone" alt="" coords="1044,5,1205,47"/>
+<area shape="rect" id="node9" href="$classpymongo_1_1cursor_1_1_cursor.html#ad633f6c663ab8dd574222e06d1da463a" title="pymongo.cursor.Cursor.\l_clone_base" alt="" coords="1044,71,1205,112"/>
+<area shape="rect" id="node10" href="$classpymongo_1_1cursor_1_1_cursor.html#aaeec4df8081b3523882e3c9f5b037781" title="pymongo.cursor.Cursor.\l_deepcopy" alt="" coords="1044,136,1205,177"/>
+<area shape="rect" id="node12" href="$classpymongo_1_1database_1_1_database.html#ae605c29b791679e55c6ac197b5e18825" title="pymongo.database.Database.get\l_collection" alt="" coords="748,193,961,235"/>
+<area shape="rect" id="node13" href="$classpymongo_1_1database_1_1_database.html#a800b267650efcda8f3780ab17e0b3626" title="pymongo.database.Database.create\l_collection" alt="" coords="1009,201,1240,243"/>
+<area shape="rect" id="node14" href="$classpymongo_1_1database_1_1_database.html#a102b32c6de695d92c36be8c1e0f1855a" title="pymongo.database.Database.collection\l_names" alt="" coords="1289,100,1539,141"/>
+<area shape="rect" id="node16" href="$classpymongo_1_1database_1_1_database.html#a9e8960b068c32bc2505db5b8b3cd50f6" title="pymongo.database.Database.\l_apply_incoming_manipulators" alt="" coords="1314,165,1514,207"/>
+<area shape="rect" id="node17" href="$classpymongo_1_1database_1_1_database.html#a998ace4aed7a18d69d276efc89357b57" title="pymongo.database.Database.\l_apply_incoming_copying\l_manipulators" alt="" coords="1317,230,1511,286"/>
+<area shape="rect" id="node18" href="$classpymongo_1_1database_1_1_database.html#aad65a7eb2be557435c76fdedb277d180" title="pymongo.database.Database.command" alt="" coords="1288,310,1540,337"/>
+<area shape="rect" id="node15" href="$classpymongo_1_1database_1_1_database.html#a8a1b72fdd261926ae0068700cd76a1b8" title="pymongo.database.Database.\l_list_collections" alt="" coords="1590,100,1785,141"/>
+<area shape="rect" id="node19" href="$classpymongo_1_1collection_1_1_collection.html#ad1d0fc1723fd58b098ebdaba5dfcab29" title="pymongo.collection.Collection.\l_command" alt="" coords="1588,269,1787,311"/>
+<area shape="rect" id="node20" href="$classpymongo_1_1database_1_1_database.html#a65a133547fd9b3fd4f2ebf64b5082def" title="pymongo.database.Database.\l_command" alt="" coords="1590,335,1785,376"/>
+</map>

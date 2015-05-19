@@ -1,0 +1,5 @@
+<map id="pymongo.cursor.Cursor.clone" name="pymongo.cursor.Cursor.clone">
+<area shape="rect" id="node2" href="$classpymongo_1_1cursor_1_1_cursor.html#ac69a92e811fd8eb2a6fcb0ef868ea246" title="pymongo.cursor.Cursor.\l_clone" alt="" coords="245,5,407,47"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1cursor_1_1_cursor.html#ad633f6c663ab8dd574222e06d1da463a" title="pymongo.cursor.Cursor.\l_clone_base" alt="" coords="245,71,407,112"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1cursor_1_1_cursor.html#aaeec4df8081b3523882e3c9f5b037781" title="pymongo.cursor.Cursor.\l_deepcopy" alt="" coords="245,136,407,177"/>
+</map>

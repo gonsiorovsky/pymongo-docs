@@ -1,0 +1,9 @@
+<map id="pymongo.database.Database.create_collection" name="pymongo.database.Database.create_collection">
+<area shape="rect" id="node2" href="$classpymongo_1_1database_1_1_database.html#a102b32c6de695d92c36be8c1e0f1855a" title="pymongo.database.Database.collection\l_names" alt="" coords="285,5,535,47"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1database_1_1_database.html#a9e8960b068c32bc2505db5b8b3cd50f6" title="pymongo.database.Database.\l_apply_incoming_manipulators" alt="" coords="310,71,510,112"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1database_1_1_database.html#a998ace4aed7a18d69d276efc89357b57" title="pymongo.database.Database.\l_apply_incoming_copying\l_manipulators" alt="" coords="313,135,507,191"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1database_1_1_database.html#aad65a7eb2be557435c76fdedb277d180" title="pymongo.database.Database.command" alt="" coords="284,215,536,242"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1database_1_1_database.html#a8a1b72fdd261926ae0068700cd76a1b8" title="pymongo.database.Database.\l_list_collections" alt="" coords="586,5,781,47"/>
+<area shape="rect" id="node7" href="$classpymongo_1_1collection_1_1_collection.html#ad1d0fc1723fd58b098ebdaba5dfcab29" title="pymongo.collection.Collection.\l_command" alt="" coords="584,175,783,216"/>
+<area shape="rect" id="node8" href="$classpymongo_1_1database_1_1_database.html#a65a133547fd9b3fd4f2ebf64b5082def" title="pymongo.database.Database.\l_command" alt="" coords="586,240,781,281"/>
+</map>

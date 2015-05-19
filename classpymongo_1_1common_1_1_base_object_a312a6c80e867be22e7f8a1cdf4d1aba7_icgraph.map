@@ -1,0 +1,7 @@
+<map id="pymongo.common.BaseObject.read_preference" name="pymongo.common.BaseObject.read_preference">
+<area shape="rect" id="node2" href="$classpymongo_1_1collection_1_1_collection.html#a30ff712a66916270e5d6ad4836546db7" title="pymongo.collection.Collection.\l__init__" alt="" coords="296,5,495,47"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1collection_1_1_collection.html#a10ea9e779e51413b50b394bc58d585a5" title="pymongo.collection.Collection.with\l_options" alt="" coords="284,71,507,112"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1collection_1_1_collection.html#ad2ab7839cf120e21169c25c24a3d6e71" title="pymongo.collection.Collection.database" alt="" coords="555,49,807,75"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1collection_1_1_collection.html#a6a3e658f9c68545fc9bd3b8963800fbf" title="pymongo.collection.Collection.list\l_indexes" alt="" coords="573,100,789,141"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1collection_1_1_collection.html#a7e4f7d893349549d77571e173a059d30" title="pymongo.collection.Collection.index\l_information" alt="" coords="855,100,1085,141"/>
+</map>

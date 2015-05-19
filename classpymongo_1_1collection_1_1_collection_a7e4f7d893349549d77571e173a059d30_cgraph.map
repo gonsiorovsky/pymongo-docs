@@ -1,0 +1,12 @@
+<map id="pymongo.collection.Collection.index_information" name="pymongo.collection.Collection.index_information">
+<area shape="rect" id="node2" href="$classpymongo_1_1collection_1_1_collection.html#a6a3e658f9c68545fc9bd3b8963800fbf" title="pymongo.collection.Collection.list\l_indexes" alt="" coords="284,235,500,276"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1collection_1_1_collection.html#a10ea9e779e51413b50b394bc58d585a5" title="pymongo.collection.Collection.with\l_options" alt="" coords="548,169,771,211"/>
+<area shape="rect" id="node10" href="$classpymongo_1_1collection_1_1_collection.html#aac78e22cef9d6ca278603f9902f88aba" title="pymongo.collection.Collection.\l_socket_for_primary_reads" alt="" coords="560,235,759,276"/>
+<area shape="rect" id="node11" href="$classpymongo_1_1collection_1_1_collection.html#ad1d0fc1723fd58b098ebdaba5dfcab29" title="pymongo.collection.Collection.\l_command" alt="" coords="560,300,759,341"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1client__options_1_1_client_options.html#a815f8db53889a24670299c21ec4f94e6" title="pymongo.client_options.Client\lOptions.codec_options" alt="" coords="841,5,1037,47"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1common_1_1_base_object.html#a476cb27c9ef59d0177d6d9ea6f0b077a" title="pymongo.common.BaseObject.codec\l_options" alt="" coords="819,71,1059,112"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1client__options_1_1_client_options.html#a2a9ccb5faa0ea7fd904bef2bad442631" title="pymongo.client_options.Client\lOptions.read_preference" alt="" coords="841,136,1037,177"/>
+<area shape="rect" id="node7" href="$classpymongo_1_1common_1_1_base_object.html#a312a6c80e867be22e7f8a1cdf4d1aba7" title="pymongo.common.BaseObject.read\l_preference" alt="" coords="823,201,1054,243"/>
+<area shape="rect" id="node8" href="$classpymongo_1_1client__options_1_1_client_options.html#a2062af10a122cfe5706643b560ea24a5" title="pymongo.client_options.Client\lOptions.write_concern" alt="" coords="841,267,1037,308"/>
+<area shape="rect" id="node9" href="$classpymongo_1_1common_1_1_base_object.html#ad76aac38fe0b76a0455cf96084f00a8e" title="pymongo.common.BaseObject.write\l_concern" alt="" coords="823,332,1055,373"/>
+</map>

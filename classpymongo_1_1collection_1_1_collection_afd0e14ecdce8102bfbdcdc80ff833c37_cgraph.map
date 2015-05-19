@@ -1,0 +1,7 @@
+<map id="pymongo.collection.Collection.bulk_write" name="pymongo.collection.Collection.bulk_write">
+<area shape="rect" id="node2" href="$classpymongo_1_1client__options_1_1_client_options.html#a2062af10a122cfe5706643b560ea24a5" title="pymongo.client_options.Client\lOptions.write_concern" alt="" coords="298,5,494,47"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1common_1_1_base_object.html#ad76aac38fe0b76a0455cf96084f00a8e" title="pymongo.common.BaseObject.write\l_concern" alt="" coords="280,71,512,112"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1collection_1_1_collection.html#a5c9b1707440e9e73d42902fd3cac21a4" title="pymongo.collection.Collection.name" alt="" coords="281,137,511,163"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1client__options_1_1_client_options.html#a815f8db53889a24670299c21ec4f94e6" title="pymongo.client_options.Client\lOptions.codec_options" alt="" coords="298,188,494,229"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1common_1_1_base_object.html#a476cb27c9ef59d0177d6d9ea6f0b077a" title="pymongo.common.BaseObject.codec\l_options" alt="" coords="276,253,516,295"/>
+</map>

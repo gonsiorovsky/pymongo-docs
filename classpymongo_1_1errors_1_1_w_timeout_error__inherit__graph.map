@@ -1,0 +1,5 @@
+<map id="pymongo.errors.WTimeoutError" name="pymongo.errors.WTimeoutError">
+<area shape="rect" id="node2" href="$classpymongo_1_1errors_1_1_write_concern_error.html" title="pymongo.errors.WriteConcern\lError" alt="" coords="9,244,204,285"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1errors_1_1_operation_failure.html" title="pymongo.errors.Operation\lFailure" alt="" coords="21,155,193,196"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1errors_1_1_py_mongo_error.html" title="pymongo.errors.PyMongoError" alt="" coords="7,80,206,107"/>
+</map>

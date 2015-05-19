@@ -1,0 +1,28 @@
+var classpymongo_1_1pool_1_1_socket_info =
+[
+    [ "__init__", "classpymongo_1_1pool_1_1_socket_info.html#a8ed41fccb468b3fbb9d527dbe861cea3", null ],
+    [ "__eq__", "classpymongo_1_1pool_1_1_socket_info.html#a171c132035e882f36ad06002bb494db7", null ],
+    [ "__hash__", "classpymongo_1_1pool_1_1_socket_info.html#a477c08c192b64e63e36426a79a58cd51", null ],
+    [ "__ne__", "classpymongo_1_1pool_1_1_socket_info.html#aab8aba0e835cfbdbae75be40abff22be", null ],
+    [ "__repr__", "classpymongo_1_1pool_1_1_socket_info.html#a51bcd5e0a80fadad21278e8edf64815f", null ],
+    [ "authenticate", "classpymongo_1_1pool_1_1_socket_info.html#ab4665400c3be2f832ddb8b9d97703492", null ],
+    [ "check_auth", "classpymongo_1_1pool_1_1_socket_info.html#aad6faeeede4c0bf58fa1eb13f715932e", null ],
+    [ "close", "classpymongo_1_1pool_1_1_socket_info.html#aac6069e578d09e23f534c089f8599651", null ],
+    [ "command", "classpymongo_1_1pool_1_1_socket_info.html#aedab822aeb6b63eac648f97827bd2761", null ],
+    [ "legacy_write", "classpymongo_1_1pool_1_1_socket_info.html#ad5598687df0892c1337b0499cb3b93d9", null ],
+    [ "receive_message", "classpymongo_1_1pool_1_1_socket_info.html#a05c0cacc13d77cee3883118651a31427", null ],
+    [ "send_message", "classpymongo_1_1pool_1_1_socket_info.html#a4d155ad6f4343c4f283396765469f2a3", null ],
+    [ "write_command", "classpymongo_1_1pool_1_1_socket_info.html#af786742b2e38f299f2d99960d08a0e68", null ],
+    [ "address", "classpymongo_1_1pool_1_1_socket_info.html#ad9bde425cb413d21d6a1c1c2780a3eeb", null ],
+    [ "authset", "classpymongo_1_1pool_1_1_socket_info.html#a5ca7c4eca49f5e57ad30c487dfb6a65b", null ],
+    [ "closed", "classpymongo_1_1pool_1_1_socket_info.html#a52e2ee32dd5724711dd2c88437c0e000", null ],
+    [ "is_mongos", "classpymongo_1_1pool_1_1_socket_info.html#a7f9b76947c3ee22214791d0a10a0301c", null ],
+    [ "is_writable", "classpymongo_1_1pool_1_1_socket_info.html#a251db3aec2bbfa3b727e29d6007b89c0", null ],
+    [ "last_checkout", "classpymongo_1_1pool_1_1_socket_info.html#ab357c4ba91d0b3793689d23ded715762", null ],
+    [ "max_bson_size", "classpymongo_1_1pool_1_1_socket_info.html#a27e8a335052fbe8d65b6e26cb5d79834", null ],
+    [ "max_message_size", "classpymongo_1_1pool_1_1_socket_info.html#a535d6d78672a1b5d89458a78e80cc908", null ],
+    [ "max_wire_version", "classpymongo_1_1pool_1_1_socket_info.html#afa49629d2c159906a3bc1adb070d07c2", null ],
+    [ "max_write_batch_size", "classpymongo_1_1pool_1_1_socket_info.html#ad374ca6bf7449043d37d241da6ed4b1a", null ],
+    [ "pool_id", "classpymongo_1_1pool_1_1_socket_info.html#aa0e498405350416f1fb994dfb4ee4da2", null ],
+    [ "sock", "classpymongo_1_1pool_1_1_socket_info.html#a12a7edd033b90a874ae47dfe1caa0357", null ]
+];

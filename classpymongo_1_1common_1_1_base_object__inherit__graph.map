@@ -1,0 +1,6 @@
+<map id="pymongo.common.BaseObject" name="pymongo.common.BaseObject">
+<area shape="rect" id="node3" href="$classpymongo_1_1collection_1_1_collection.html" title="pymongo.collection.Collection" alt="" coords="362,5,557,32"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1database_1_1_database.html" title="pymongo.database.Database" alt="" coords="364,56,555,83"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1mongo__client_1_1_mongo_client.html" title="pymongo.mongo_client.Mongo\lClient" alt="" coords="360,107,559,149"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1mongo__replica__set__client_1_1_mongo_replica_set_client.html" title="pymongo.mongo_replica\l_set_client.MongoReplicaSet\lClient" alt="" coords="607,100,797,156"/>
+</map>

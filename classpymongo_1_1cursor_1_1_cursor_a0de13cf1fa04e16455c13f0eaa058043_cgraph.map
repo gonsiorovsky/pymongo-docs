@@ -1,0 +1,7 @@
+<map id="pymongo.cursor.Cursor.__getitem__" name="pymongo.cursor.Cursor.__getitem__">
+<area shape="rect" id="node2" href="$classpymongo_1_1cursor_1_1_cursor.html#a41382e012488b5ab8edf97362c40c4d0" title="pymongo.cursor.Cursor.\l__check_okay_to_chain" alt="" coords="229,12,392,53"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1cursor_1_1_cursor.html#a43151090189c7d491e56e92fb553baad" title="pymongo.cursor.Cursor.clone" alt="" coords="215,78,407,105"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1cursor_1_1_cursor.html#ac69a92e811fd8eb2a6fcb0ef868ea246" title="pymongo.cursor.Cursor.\l_clone" alt="" coords="455,5,616,47"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1cursor_1_1_cursor.html#ad633f6c663ab8dd574222e06d1da463a" title="pymongo.cursor.Cursor.\l_clone_base" alt="" coords="455,71,616,112"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1cursor_1_1_cursor.html#aaeec4df8081b3523882e3c9f5b037781" title="pymongo.cursor.Cursor.\l_deepcopy" alt="" coords="455,136,616,177"/>
+</map>

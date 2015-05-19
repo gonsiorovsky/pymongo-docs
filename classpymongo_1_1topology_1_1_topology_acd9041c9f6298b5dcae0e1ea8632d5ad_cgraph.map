@@ -1,0 +1,6 @@
+<map id="pymongo.topology.Topology.description" name="pymongo.topology.Topology.description">
+<area shape="rect" id="node2" href="$classpymongo_1_1topology_1_1_topology.html#afa9fb761f82c34a70e3d310259b41953" title="pymongo.topology.Topology.\l_update_servers" alt="" coords="314,5,502,47"/>
+<area shape="rect" id="node3" href="$namespacepymongo_1_1server__selectors.html#ab1c233951148f5da19721a193036be7b" title="pymongo.server_selectors.apply\l_local_threshold" alt="" coords="304,71,512,112"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1topology_1_1_topology.html#a9800e513c34d00565d6260e9d9e76444" title="pymongo.topology.Topology.\l_create_pool_for_monitor" alt="" coords="314,136,502,177"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1topology_1_1_topology.html#a423e6f811bbe7bbc49103ab9f56d2dc0" title="pymongo.topology.Topology.\l_create_pool_for_server" alt="" coords="314,201,502,243"/>
+</map>

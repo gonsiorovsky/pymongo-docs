@@ -1,0 +1,7 @@
+<map id="pymongo.database.Database.get_collection" name="pymongo.database.Database.get_collection">
+<area shape="rect" id="node2" href="$classpymongo_1_1database_1_1_database.html#a52aed4bbd776d4fe418e0d41d499d84f" title="pymongo.database.Database.\l__getitem__" alt="" coords="297,35,492,76"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1database_1_1_database.html#a4f1c78e493420d56f11f8ac8ebdc6a70" title="pymongo.database.Database.current_op" alt="" coords="267,101,523,127"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1database_1_1_database.html#a1d6cab474fe3a561c59d9d10ce5e468b" title="pymongo.database.Database.\l__getattr__" alt="" coords="571,5,765,47"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1mongo__client_1_1_mongo_client.html#a0c5975e985818ba3612bad2e3c4859cf" title="pymongo.mongo_client.Mongo\lClient.__getattr__" alt="" coords="1061,35,1260,76"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1database_1_1_system_j_s.html#aebb0f3c0faa70935e88937f27e5c520d" title="pymongo.database.SystemJS.\l__getitem__" alt="" coords="813,5,1013,47"/>
+</map>

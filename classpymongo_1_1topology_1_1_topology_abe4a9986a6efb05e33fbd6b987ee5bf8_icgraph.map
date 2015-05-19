@@ -1,0 +1,5 @@
+<map id="pymongo.topology.Topology.select_server" name="pymongo.topology.Topology.select_server">
+<area shape="rect" id="node2" href="$classpymongo_1_1topology_1_1_topology.html#a34ae666cd04a6925762233c29a256dd9" title="pymongo.topology.Topology.select\l_servers" alt="" coords="276,5,499,47"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1topology_1_1_topology.html#aa9b820fdd25fcdf28f682457feedb14c" title="pymongo.topology.Topology.select\l_server_by_address" alt="" coords="276,71,499,112"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1topology_1_1_topology.html#a1db8c0ce439163f24a13909f2a8d81fc" title="pymongo.topology.Topology.open" alt="" coords="547,13,763,39"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="pymongo.server_selectors.writable_server_selector" name="pymongo.server_selectors.writable_server_selector">
+<area shape="rect" id="node2" href="$classpymongo_1_1read__preferences_1_1_primary.html#a3c7d5576884d7af71c4982b95ca795fb" title="pymongo.read_preferences.\lPrimary.__call__" alt="" coords="294,5,477,47"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1read__preferences_1_1_primary_preferred.html#a0355a865e60554d63ae4841d90646ff1" title="pymongo.read_preferences.\lPrimaryPreferred.__call__" alt="" coords="294,71,477,112"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1read__preferences_1_1_secondary_preferred.html#a5bbbb9403b2a98c52a73cf832e9077d0" title="pymongo.read_preferences.\lSecondaryPreferred.__call__" alt="" coords="291,136,479,177"/>
+<area shape="rect" id="node5" href="$namespacepymongo_1_1server__selectors.html#afea07b0e76d06ff9366e81342b32e85f" title="pymongo.server_selectors.writable\l_preferred_server_selector" alt="" coords="275,201,496,243"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1topology_1_1_topology.html#ad336e2d567f253d9560762b1b2163246" title="pymongo.topology.Topology.get\l_primary" alt="" coords="282,267,489,308"/>
+<area shape="rect" id="node7" href="$classpymongo_1_1topology_1_1_topology.html#aa06e41a4af3386c3985c0532db4237d8" title="pymongo.topology.Topology.get\l_direct_or_primary" alt="" coords="282,332,489,373"/>
+</map>

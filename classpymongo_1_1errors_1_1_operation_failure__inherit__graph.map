@@ -1,0 +1,10 @@
+<map id="pymongo.errors.OperationFailure" name="pymongo.errors.OperationFailure">
+<area shape="rect" id="node4" href="$classpymongo_1_1errors_1_1_bulk_write_error.html" title="pymongo.errors.BulkWrite\lError" alt="" coords="611,5,784,47"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1errors_1_1_cursor_not_found.html" title="pymongo.errors.CursorNot\lFound" alt="" coords="610,71,785,112"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1errors_1_1_execution_timeout.html" title="pymongo.errors.Execution\lTimeout" alt="" coords="610,136,785,177"/>
+<area shape="rect" id="node7" href="$classpymongo_1_1errors_1_1_write_concern_error.html" title="pymongo.errors.WriteConcern\lError" alt="" coords="600,201,795,243"/>
+<area shape="rect" id="node9" href="$classpymongo_1_1errors_1_1_write_error.html" title="pymongo.errors.WriteError" alt="" coords="610,267,785,294"/>
+<area shape="rect" id="node2" href="$classpymongo_1_1errors_1_1_py_mongo_error.html" title="pymongo.errors.PyMongoError" alt="" coords="133,143,332,170"/>
+<area shape="rect" id="node8" href="$classpymongo_1_1errors_1_1_w_timeout_error.html" title="pymongo.errors.WTimeoutError" alt="" coords="843,209,1045,235"/>
+<area shape="rect" id="node10" href="$classpymongo_1_1errors_1_1_duplicate_key_error.html" title="pymongo.errors.Duplicate\lKeyError" alt="" coords="859,260,1029,301"/>
+</map>

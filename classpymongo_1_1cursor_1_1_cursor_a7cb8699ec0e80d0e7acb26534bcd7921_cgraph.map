@@ -1,0 +1,9 @@
+<map id="pymongo.cursor.Cursor.where" name="pymongo.cursor.Cursor.where">
+<area shape="rect" id="node2" href="$classpymongo_1_1cursor_1_1_cursor.html#a41382e012488b5ab8edf97362c40c4d0" title="pymongo.cursor.Cursor.\l__check_okay_to_chain" alt="" coords="539,68,701,110"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1command__cursor_1_1_command_cursor.html#a470db6ae84b5f17287d2fa604b0600dd" title="pymongo.command_cursor.Command\lCursor.__die" alt="" coords="248,43,491,84"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1cursor_1_1_cursor.html#ad06fb9e1a31f0709932215e19fd7700f" title="pymongo.cursor.Cursor.__die" alt="" coords="273,109,465,136"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1cursor_1_1_cursor.html#a5112de092fcfd83d3854de2a7332014e" title="pymongo.cursor.Cursor.min" alt="" coords="278,160,461,186"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1command__cursor_1_1_command_cursor.html#ac24d8eb241c4d20a0a3a859d1ce27811" title="pymongo.command_cursor.Command\lCursor.__send_message" alt="" coords="248,211,491,252"/>
+<area shape="rect" id="node7" href="$classpymongo_1_1cursor_1_1_cursor.html#a6d93259331fde5c7ec3f603c40807f25" title="pymongo.cursor.Cursor.\l__send_message" alt="" coords="289,276,450,318"/>
+<area shape="rect" id="node8" href="$classpymongo_1_1cursor_1_1_cursor.html#a5a5303c468e0f8b0896a76fc88a2eef3" title="pymongo.cursor.Cursor.\l__query_spec" alt="" coords="289,342,450,383"/>
+</map>

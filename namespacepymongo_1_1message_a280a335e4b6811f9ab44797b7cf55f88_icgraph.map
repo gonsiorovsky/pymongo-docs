@@ -1,0 +1,6 @@
+<map id="pymongo.message.kill_cursors" name="pymongo.message.kill_cursors">
+<area shape="rect" id="node2" href="$classpymongo_1_1cursor__manager_1_1_cursor_manager.html#a3bc1edd79f82d2d4e77bfe37e1237c0d" title="pymongo.cursor_manager.Cursor\lManager.close" alt="" coords="205,71,420,112"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1mongo__client_1_1_mongo_client.html#a854ea4e1d76788bf8edac6afa0340b67" title="pymongo.mongo_client.Mongo\lClient.__exit__" alt="" coords="477,5,675,47"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1monitor_1_1_monitor.html#afeb3eaa0d80b0954d0b05773c3766844" title="pymongo.monitor.Monitor.request\l_check" alt="" coords="468,71,684,112"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1pool_1_1_socket_info.html#aac6069e578d09e23f534c089f8599651" title="pymongo.pool.SocketInfo.close" alt="" coords="475,161,677,187"/>
+</map>

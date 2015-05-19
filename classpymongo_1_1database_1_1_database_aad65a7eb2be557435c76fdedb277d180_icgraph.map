@@ -1,0 +1,20 @@
+<map id="pymongo.database.Database.command" name="pymongo.database.Database.command">
+<area shape="rect" id="node2" href="$classpymongo_1_1database_1_1_database.html#a800b267650efcda8f3780ab17e0b3626" title="pymongo.database.Database.create\l_collection" alt="" coords="324,64,555,105"/>
+<area shape="rect" id="node9" href="$classpymongo_1_1database_1_1_database.html#a195f7744b37611aa2f3b539c672d12da" title="pymongo.database.Database.drop\l_collection" alt="" coords="621,155,841,196"/>
+<area shape="rect" id="node10" href="$classpymongo_1_1database_1_1_database.html#a808b00722a5244218a078f521709825d" title="pymongo.database.Database.validate\l_collection" alt="" coords="320,181,559,223"/>
+<area shape="rect" id="node11" href="$classpymongo_1_1database_1_1_database.html#ae9001bd9b6da75b4b4f0ac697c4d5194" title="pymongo.database.Database.profiling\l_level" alt="" coords="320,247,559,288"/>
+<area shape="rect" id="node12" href="$classpymongo_1_1database_1_1_database.html#ac7f133ce39f00f97faa8f6c8612298bf" title="pymongo.database.Database.set\l_profiling_level" alt="" coords="333,312,546,353"/>
+<area shape="rect" id="node13" href="$classpymongo_1_1database_1_1_database.html#ad89993bb621d00c84b6fd5da497b8e59" title="pymongo.database.Database.error" alt="" coords="329,378,550,405"/>
+<area shape="rect" id="node14" href="$classpymongo_1_1database_1_1_database.html#a0e687ae39eabd8c1d41138acc50427f0" title="pymongo.database.Database.last\l_status" alt="" coords="331,429,547,471"/>
+<area shape="rect" id="node15" href="$classpymongo_1_1database_1_1_database.html#a2f270c15cddf8b63a58b47481ad2be5a" title="pymongo.database.Database.previous\l_error" alt="" coords="318,495,561,536"/>
+<area shape="rect" id="node16" href="$classpymongo_1_1database_1_1_database.html#a6653b7ac274badec79309bfccdc67639" title="pymongo.database.Database.reset\l_error_history" alt="" coords="327,560,551,601"/>
+<area shape="rect" id="node17" href="$classpymongo_1_1database_1_1_database.html#a3a9882910a2c050dd6ad1a0c9829966b" title="pymongo.database.Database.add_user" alt="" coords="315,626,563,653"/>
+<area shape="rect" id="node18" href="$classpymongo_1_1database_1_1_database.html#a461b08c538df52fc698f1b239c0ea58d" title="pymongo.database.Database.remove_user" alt="" coords="305,677,573,703"/>
+<area shape="rect" id="node19" href="$classpymongo_1_1database_1_1_database.html#adbf36d94e1eb71fa3616afd7f853ac5f" title="pymongo.database.Database.eval" alt="" coords="331,727,548,754"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1database_1_1_database.html#ae605c29b791679e55c6ac197b5e18825" title="pymongo.database.Database.get\l_collection" alt="" coords="625,64,838,105"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1database_1_1_database.html#a52aed4bbd776d4fe418e0d41d499d84f" title="pymongo.database.Database.\l__getitem__" alt="" coords="920,35,1115,76"/>
+<area shape="rect" id="node8" href="$classpymongo_1_1database_1_1_database.html#a4f1c78e493420d56f11f8ac8ebdc6a70" title="pymongo.database.Database.current_op" alt="" coords="889,101,1145,127"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1database_1_1_database.html#a1d6cab474fe3a561c59d9d10ce5e468b" title="pymongo.database.Database.\l__getattr__" alt="" coords="1193,5,1388,47"/>
+<area shape="rect" id="node7" href="$classpymongo_1_1mongo__client_1_1_mongo_client.html#a0c5975e985818ba3612bad2e3c4859cf" title="pymongo.mongo_client.Mongo\lClient.__getattr__" alt="" coords="1684,35,1883,76"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1database_1_1_system_j_s.html#aebb0f3c0faa70935e88937f27e5c520d" title="pymongo.database.SystemJS.\l__getitem__" alt="" coords="1436,5,1636,47"/>
+</map>

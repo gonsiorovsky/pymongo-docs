@@ -1,0 +1,5 @@
+<map id="pymongo.pool.SocketInfo.legacy_write" name="pymongo.pool.SocketInfo.legacy_write">
+<area shape="rect" id="node2" href="$classpymongo_1_1pool_1_1_socket_info.html#a4d155ad6f4343c4f283396765469f2a3" title="pymongo.pool.SocketInfo.send\l_message" alt="" coords="270,5,470,47"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1pool_1_1_socket_info.html#a05c0cacc13d77cee3883118651a31427" title="pymongo.pool.SocketInfo.receive\l_message" alt="" coords="264,71,476,112"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1pool_1_1_socket_info.html#a95a54ed82a7d5738fe206fee68c7ce79" title="pymongo.pool.SocketInfo.\l_raise_connection_failure" alt="" coords="524,39,696,80"/>
+</map>

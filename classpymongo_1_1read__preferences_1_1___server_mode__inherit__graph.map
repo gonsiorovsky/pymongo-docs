@@ -1,0 +1,7 @@
+<map id="pymongo.read_preferences._ServerMode" name="pymongo.read_preferences._ServerMode">
+<area shape="rect" id="node3" href="$classpymongo_1_1read__preferences_1_1_nearest.html" title="pymongo.read_preferences.\lNearest" alt="" coords="341,5,524,47"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1read__preferences_1_1_primary.html" title="pymongo.read_preferences.\lPrimary" alt="" coords="341,71,524,112"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1read__preferences_1_1_primary_preferred.html" title="pymongo.read_preferences.\lPrimaryPreferred" alt="" coords="341,136,524,177"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1read__preferences_1_1_secondary.html" title="pymongo.read_preferences.\lSecondary" alt="" coords="341,201,524,243"/>
+<area shape="rect" id="node7" href="$classpymongo_1_1read__preferences_1_1_secondary_preferred.html" title="pymongo.read_preferences.\lSecondaryPreferred" alt="" coords="341,267,524,308"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="pymongo.mongo_client.MongoClient.set_cursor_manager" name="pymongo.mongo_client.MongoClient.set_cursor_manager">
+<area shape="rect" id="node2" href="$classpymongo_1_1mongo__client_1_1_mongo_client.html#a5879bfd3869ebb1e30dd6773d4f93bc8" title="pymongo.mongo_client.Mongo\lClient._get_topology" alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$classpymongo_1_1mongo__client_1_1_mongo_client.html#a9a9804411650008f8b181339f6b7bcae" title="pymongo.mongo_client.Mongo\lClient._reset_server_and\l_request_check" alt="" coords="252,70,451,126"/>
+<area shape="rect" id="node4" href="$classpymongo_1_1mongo__client_1_1_mongo_client.html#ae09fb72c65ad5abc983e55852735ade2" title="pymongo.mongo_client.Mongo\lClient.__reset_server" alt="" coords="252,149,451,191"/>
+<area shape="rect" id="node5" href="$classpymongo_1_1mongo__client_1_1_mongo_client.html#a7aaeef89a03e3f795cdee5b73a025bdb" title="pymongo.mongo_client.Mongo\lClient._get_socket" alt="" coords="252,215,451,256"/>
+<area shape="rect" id="node6" href="$classpymongo_1_1mongo__client_1_1_mongo_client.html#a5a62791a22f223fa422e1ab672881ff4" title="pymongo.mongo_client.Mongo\lClient._reset_on_error" alt="" coords="252,280,451,321"/>
+</map>

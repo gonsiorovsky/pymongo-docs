@@ -1,0 +1,6 @@
+<map id="pymongo.read_preferences.Secondary.__call__" name="pymongo.read_preferences.Secondary.__call__">
+<area shape="rect" id="node2" href="$namespacepymongo_1_1server__selectors.html#a1733d27300a550174180620caf2e9efb" title="pymongo.server_selectors.secondary\l_with_tags_server_selector" alt="" coords="236,39,473,80"/>
+<area shape="rect" id="node3" href="$namespacepymongo_1_1server__selectors.html#a0a391fe394af73b9bfd3a0ef10b84f2d" title="pymongo.server_selectors.tag\l_sets_server_selector" alt="" coords="543,5,737,47"/>
+<area shape="rect" id="node5" href="$namespacepymongo_1_1server__selectors.html#adcb7595e9e4991d0fbb7b08cf73aac7d" title="pymongo.server_selectors.secondary\l_server_selector" alt="" coords="521,71,759,112"/>
+<area shape="rect" id="node4" href="$namespacepymongo_1_1server__selectors.html#a2cc94d8b4cf043fd3d28bb8c93ace60b" title="pymongo.server_selectors.single\l_tag_set_server_selector" alt="" coords="807,5,1017,47"/>
+</map>
